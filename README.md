@@ -1,4 +1,4 @@
-# FreeSpotify
+# FreeSpotify (Yerker = (Yehr-kehr) = Songs in Armenian)
 Download songs locally for free on iOS
 
 <p align="center">
