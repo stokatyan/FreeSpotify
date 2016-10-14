@@ -7,4 +7,4 @@ Some songs require a wifi conenction to stream/download
   <img src="https://github.com/stokatyan/FreeSpotify/blob/master/Screen%20Shot.png" width="350"/>
 </p>
 
-Yerker = (Yehr-kehr) = Songs (Armenian)
+Yerker is pronounced Y-eh-rk-eh-r and translates to "songs" in Armenian.
