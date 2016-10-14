@@ -1,5 +1,6 @@
 # FreeSpotify 
-Download songs locally for free on iOS \n
+Download songs locally for free on iOS 
+
 Some songs require a wifi conenction to stream/download
 
 Yerker = (Yehr-kehr) = Songs (Armenian)
